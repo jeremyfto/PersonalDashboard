@@ -1,2 +1,0 @@
-//Notes: Need USERNAME, PASSHASH, TODOLISTCONNECTION, LOCATION4WEATHER, LOCATIONFORTIME
-//Late game project could expand on calender and allow scheduling and connection to todo list. Not going to be part of Initial Product

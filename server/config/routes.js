@@ -1,5 +1,5 @@
 // get quote controller
-const User = require('../controllers/UserController')
+const UserController = require('../controllers/UserController')
 // access a url, and calls the callback
 module.exports = (app) => {
 
