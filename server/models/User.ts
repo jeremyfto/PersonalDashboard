@@ -7,6 +7,6 @@ class User {
     constructor(Username: string, Passhash: string){
         this.Username = Username;
         this.Passhash = Passhash;
-        this.UserToDoList = new ToDoList
+        this.UserToDoList = new ToDoList()
     }
 }
