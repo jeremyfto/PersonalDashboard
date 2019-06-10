@@ -1,4 +1,4 @@
-class ToDoEntry {
+export class ToDoEntry {
     Entry: string;
     createdat: Date;
     constructor(entry){
